@@ -12,6 +12,6 @@ quick set up (clone to your gopath )
 
 1. edit config.json (set your mysql db connection), automatic migrate table
 2. go get
-3. go run main.go
+3. go run main.go (running on localhost:7777)
 
 
