@@ -8,8 +8,8 @@ clean architecture:
 4. Delivery : output hanlder layer, http rquest / grpc (not implement yet)
 
 
-quick set up
-* clone it in your gopath
+quick set up (clone to your gopath )
 1.edit config.json (set your mysql db connection), automatic migrate table
 2.go get
 3.go run main.go
+
